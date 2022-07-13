@@ -16,3 +16,6 @@ Look: Weather_station_diagram.png
 
 ## Video presentation
 YouTube: https://youtu.be/AQvN4eyB9OQ (Polish)
+
+## Libraries
+All libraries were provided by free sources and were used and modified only for educational purpose.
