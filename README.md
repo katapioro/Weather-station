@@ -1,5 +1,5 @@
 # Weather-station (2021)
-##Authors
+## Authors
 Katarzyna Pióro - code and connections
 Łukasz Piasecki - connections and documentation description
 
